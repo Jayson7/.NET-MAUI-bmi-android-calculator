@@ -1,0 +1,8 @@
+# Example .gitignore for .NET MAUI
+bin/
+obj/
+.vscode/
+.idea/
+*.user
+*.suo
+*.csproj.user
